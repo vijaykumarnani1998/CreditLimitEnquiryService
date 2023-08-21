@@ -8,6 +8,7 @@ public class CreditLimitEnquiryServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CreditLimitEnquiryServiceApplication.class, args);
+		System.out.println("CreditLimitEnquiry Application Running Success");
 	}
 
 }
